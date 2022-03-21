@@ -1,7 +1,3 @@
-os
-sys
-string
-csv
 matplotlib.pyplot
 numpy
 pandas
